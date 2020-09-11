@@ -109,11 +109,15 @@ const Menu = ({ menuOpen, toggleMenu }) => {
                 </NavListItem>
               ))}
           </NavList>
+<<<<<<< HEAD
           <ResumeLink
             href="/RoopchandBharamgouda.pdf"
             target="_blank"
             rel="nofollow noopener noreferrer"
           >
+=======
+          <ResumeLink href="/RoopchandBharamgouda.pdf" target="_blank" rel="nofollow noopener noreferrer">
+>>>>>>> d4855045f19396a46127d9d8123b8f046dd70193
             Resume
           </ResumeLink>
         </NavLinks>
