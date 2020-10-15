@@ -2,7 +2,6 @@
 date: "1"
 title: "GAZETTEER"
 cover: "./halcyon2.png"
-github: "https://github.com/RoopchandB/FinalPhpPortfolioProject"
 external: "https://gazetter-map.herokuapp.com/"
 tech:
   - HTML / CSS
