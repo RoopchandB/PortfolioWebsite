@@ -2,7 +2,6 @@
 date: "2"
 title: "Company Directory"
 cover: "./demo1.png"
-github: "https://github.com/RoopchandB/Company_Directory"
 external: "https://dashboardad1.herokuapp.com/"
 tech:
   - HTML / CSS
